@@ -5,3 +5,6 @@ sd(x)
 sd(x)
 
 min(x)
+
+
+max(x)
