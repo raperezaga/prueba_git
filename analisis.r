@@ -6,3 +6,8 @@ sd(x)
 abs(x)
 
 mean(x)-max(x)
+
+min(x)
+
+
+max(x)
