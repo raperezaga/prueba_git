@@ -4,3 +4,5 @@ mean(x)
 sd(x)
 sd(x)
 abs(x)
+
+mean(x)-max(x)
