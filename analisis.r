@@ -11,3 +11,6 @@ min(x)
 
 
 max(x)
+
+
+n <- length(x)
